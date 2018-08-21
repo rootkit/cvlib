@@ -6,7 +6,7 @@ A compact cross-platform Computer Vision library written in C/C++ during the dur
 
  ## Features
  
- * Check the [library header](https://github.com/ibbgomes/cvbib/blob/master/src/cvlib.h) to consult the available sub-routines. 
+ * Check the [library header](https://github.com/ibbgomes/cvlib/blob/master/src/cvlib.h) to consult the available sub-routines. 
  
  ## Requeriments
  
